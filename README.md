@@ -1,0 +1,1 @@
+Companion to Compiled article on Django data delivery to reactive components
